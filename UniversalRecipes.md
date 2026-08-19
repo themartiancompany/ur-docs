@@ -233,9 +233,13 @@ the reason for the above is to allow the
 from Node.js modules' directory or from system libraries'
 directory directly.
 
-Given a Node.js module which contain programs should be symlinked in
-`/usr/lib`
-Given a Node.js module contains
+For reference you can consult the
+[`evm-wallet`](
+  https://github.com/themartiancompany/evm-wallet-ur)
+or
+[`nodejs-ethers`](
+  https://github.com/themartiancompany/nodejs-ethers-ur)
+recipes.
 
 ## Examples
 
