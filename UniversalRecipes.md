@@ -210,6 +210,33 @@ assurance reviewing:
     determined on whether the program package includes those
     files and builds on one of those services;
 
+### Language-specific rules
+
+#### Javascript modules
+
+Given a Node.js module library called `example-library`,
+the correspondent package should have name
+`nodejs-example-library`.
+
+Given a Node.js module `example-program` contains a program
+with the same name, then the correspondent program
+should be called `example-program`.
+
+Whenever possible or whenever not managed through,
+the `example-program` module must be symlinked or
+installed to `/usr/lib/example-program` or
+`/usr/lib/example-program/nodejs`;
+the reason for the above is to allow the
+[Crash Javascript](
+  https://github.com/themartiancompany/crash-js)'s
+`_require` function to seamlessly load modules either
+from Node.js modules' directory or from system libraries'
+directory directly.
+
+Given a Node.js module which contain programs should be symlinked in
+`/usr/lib`
+Given a Node.js module contains
+
 ## Examples
 
 For an updated reference Universal Recipe `PKGBUILD` you
