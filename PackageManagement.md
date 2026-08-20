@@ -24,10 +24,10 @@
 Internally, the `ur` is written to be
 modular, so that it can be easily adapted
 to work with any pre-existing package maanger.
-The default and main is for the `inteppacman`
-package manager, which is a pacman extension
-with support for handling Android applications,
-targeting the
+The default and main backend is for the
+`inteppacman` package manager, which is a
+pacman extension with support for handling
+Android applications, specifically the
 [pacman tree published and mantained](
   https://github.com/themartiancompany/pacman)
 published and maintained by The Martian Company,
