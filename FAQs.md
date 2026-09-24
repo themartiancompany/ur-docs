@@ -21,6 +21,12 @@
 
 # Frequently asked questions (FAQs)
 
+Here follows a list of frequently asked
+questions about the
+[Ur](
+  https://github.com/themartiancompany/ur)
+application store.
+
 **Question**:
   *I'm a software maintainer, why should
    I publish my packages on the Ur?*
