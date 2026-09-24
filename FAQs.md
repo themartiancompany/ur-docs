@@ -21,27 +21,51 @@
 
 # Frequently asked questions (FAQs)
 
-### I'm a software maintainer, why should I publish my packages on the Ur?
+**Question**:
+  *I'm a software maintainer, why should
+   I publish my packages on the Ur?*
 
-Because so you can fix packages on
-GNU/Linux, Android and Windows
-at the same time and your packages
-are all retro-compatible with
-Arch Linux, Termux and MSYS2/MINGW64.
+**Answer**:
+  Because so you can fix packages on
+  GNU/Linux, Android and Windows
+  at the same time and your packages
+  are all retro-compatible with
+  Arch Linux, Termux and MSYS2/MINGW64.
 
-Also you get paid for your work.
+  Also you get paid for your work.
 
-### I'm a customer, why should to purchase software on the Ur?
+**Question**:
+  *I'm a customer, why should I want
+   to purchase software on the Ur?
 
-Because packages whose build resources are
-hosted on the
-[Ethereum Virtual Machine File System](
-  https://github.com/themartiancompany/evmfs)
-can't be taken down, so you'll never
-lose access to the software you
-purchase, which will keep working virtually
-forever.
+**Answer**:
+  Because packages whose build resources are
+  hosted on the
+  [Ethereum Virtual Machine File System](
+    https://github.com/themartiancompany/evmfs)
+  can't be taken down, so you'll never
+  lose access to the software you
+  purchase, which will keep working virtually
+  forever.
 
-### Is it true that applications and media can't be taken off the store by anybody?
+**Question**:
+  *I'm an advanced Android user, why from a
+   technical perspective should I want
+   to use the Ur compared to another
+   application store or package manager?*
 
-It is true.
+**Answer**:
+  Because the Ur lets you manage and use
+  your Android device same as your GNU/Linux
+  computer; in particular *you can manage Android
+  applications same way you manage your
+  computer applications on a GNU/Linux computer*.
+  This implies shared libraries and Android partial
+  system applications upgrades.
+
+**Question**:
+  *Is it true that applications and media
+   can't be taken off the store by anybody?*
+
+**Answer**:
+  It is true.
