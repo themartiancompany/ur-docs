@@ -45,5 +45,9 @@ Here follows an index for the Ur documentation.
 - [Use cases](
     UseCases.md)
 
+Here's some
+[FAQs](
+  FAQs.md).
+
 The documentation is released under the terms of the
 GNU Affero General Public License version 3.
