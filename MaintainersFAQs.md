@@ -19,13 +19,13 @@
 [comment]: <> (See the GNU Affero General Public License)
 [comment]: <> (for more details.)
 
-# Frequently asked questions (FAQs)
+# Software maintainers frequently asked questions (FAQs)
 
 Here follows a list of frequently asked
 questions about the
 [Ur](
   https://github.com/themartiancompany/ur)
-application store.
+application store for software maintainers.
 
 **Question**:
   *I'm a software maintainer, why should
@@ -40,51 +40,25 @@ application store.
 
   Also you get paid for your work.
 
-  If you're a publisher you may want to
-  read the
-  [software maintainers FAQs](
-    MaintainersFAQs).
-
 **Question**:
-  *I'm a customer, why should I want
-   to purchase software on the Ur?
+  *I'm a free software maintainer of
+   pacman-compatible packages, why should I
+   want to publish my packages on the Ur
+   instead even if I don't care about
+   platforms different from?* 
 
 **Answer**:
-  Because packages whose build resources are
-  hosted on the
-  [Ethereum Virtual Machine File System](
-    https://github.com/themartiancompany/evmfs)
-  can't be taken down, so you'll never
-  lose access to the software you
-  purchase, which will keep working virtually
-  forever.
-
-**Question**:
-  *I'm an advanced Android user, why from a
-   technical perspective should I want
-   to use the Ur compared to another
-   application store or package manager?*
-
-**Answer**:
-  Because the Ur lets you manage and use
-  your Android device same as your GNU/Linux
-  computer; in particular *you can manage Android
-  applications same way you manage your
-  computer applications on a GNU/Linux computer*.
-  This implies shared libraries and Android partial
-  system applications upgrades.
-
-**Sub-question**:
-  *Why should I want to manage Android applications
-   using a GNU/Linux package manager?*
-
-**Answer**:
-  Because Android applications have dependencies,
-  and currently you just don't declare them.
-  Think about your non-chrome phone browser,
-  that doesn't work without the System WebView
-  package installed, still the phone functionality
-  works without the WebView installed.
+  Because not doing it is the same as
+  hiring 4 painters to paint the same wall
+  4 times.
+  
+  glass
+  In the opinion of Ur's author that's the same as
+  asking why 
+  Because supporting it rather than the Ur
+  
+  Because since people still and will always
+  use many platforms and so 
 
 **Question**:
   *Is it true that applications and media
