@@ -69,6 +69,18 @@ application store.
   This implies shared libraries and Android partial
   system applications upgrades.
 
+**Sub-question**:
+  *Why should I want to manage Android applications
+   using a GNU/Linux package manager?*
+
+**Answer**:
+  Because Android applications have dependencies,
+  and currently you just don't declare them.
+  Think about your non-chrome phone browser,
+  that doesn't work without the System WebView
+  package installed, still the phone functionality
+  works without the WebView installed.
+
 **Question**:
   *Is it true that applications and media
    can't be taken off the store by anybody?*
