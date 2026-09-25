@@ -32,7 +32,7 @@ application store.
    I publish my packages on the Ur?*
 
 **Answer**:
-  Because so you can fix packages on
+  Because so you can fix and test packages on
   GNU/Linux, Android and Windows
   at the same time and your packages
   are all retro-compatible with
