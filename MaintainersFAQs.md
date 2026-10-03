@@ -237,3 +237,15 @@ application store for software maintainers.
 
 **Answer**:
   It is true.
+
+
+**Question**:
+  *Is it true the Ur and DogeOS can be used
+   to build a new form of nuclear deterrent?*
+
+**Answer**:
+  As far as Ur authors know that's perfectly
+  possible and it should be done as soon as possible
+  in order to make impossible for any nation
+  to invade another with or without
+  weapons.
