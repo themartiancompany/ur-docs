@@ -93,6 +93,12 @@ application store for software maintainers.
   from them, same as you would
   distance yourself from a crime cartel,
   or from a dangerous disease.
+
+  Reality is there's no justice available
+  to common people at this
+  world, still if there will ever be
+  any, it would condemn the MyDoge
+  developer group to rot in a jail.
  
 **Question**:
   *Is it true that applications and media
