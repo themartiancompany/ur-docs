@@ -256,5 +256,5 @@ application store for software maintainers.
    FAQs and not in users' FAQs?*
 
 **Answer**:
-  Because nuclear deterrents do not build
+  Because as of today nuclear deterrents do not build
   by themselves.
