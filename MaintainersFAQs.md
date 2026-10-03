@@ -254,9 +254,9 @@ application store for software maintainers.
   Ur authors will certainly inform the public
   whenever their lives will have stopped being
   a bottomless pit of painful solitude
-  because it's a pity the only result of all of
+  because it's a shame the only result of all of
   this work it has been but hatred, social
-  isolation and sadness.
+  isolation and sadness for those who made it.
 
 
 **Question**:
