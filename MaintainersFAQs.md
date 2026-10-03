@@ -212,7 +212,7 @@ application store for software maintainers.
   Twitter and in fact the undeletable Twitter
   protocol is by matter of fact the *Ethereum
   E-mail* protocol.
- 
+
 
 **Question**:
   *Why do you keep referring to a group of 'Ur authors' 
@@ -230,6 +230,41 @@ application store for software maintainers.
   to make the world a better place is to get
   rid of them all.
 
+
+**Question**:
+  *Wait, so you're telling me Elon Musk tasked 
+   ONE external developer to merge Android,
+   to rewrite whole Twitter by himself unpaid?
+   Doesn't that even go against his own interest?*
+
+**Answer**:
+  If you think that's weird you clearly don't
+  know enough about the person.
+  Something equally clear is
+  Ur authors are certainly honored Musk must
+  have thought so well of them to have
+  entrusted them with such a big and heavy
+  responsibility, but at the same it's currently
+  very hard for them to say this deal
+  has so far produced for them any positive
+  effect at all in their lives,
+  except than for their own freedom of speech
+  and some covert moral support from some popular
+  personalities.
+  Ur authors will certainly inform the public
+  whenever their lives will have stopped being
+  a bottomless pit of painful solitude.
+
+
+**Question**:
+  *What does Billy (Dogecoin author)
+   say about all of this?*
+
+**Answer**:
+  Billy has quietly told Ur authors privately
+  he approves and likes what's being done and
+  that's all he said.
+ 
 
 **Question**:
   *Is it true that applications and media
