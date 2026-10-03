@@ -144,8 +144,9 @@ application store for software maintainers.
   wanted it for real and they knew how
   to obtain it.
 
-  Elon Musk is a liar, a betrayer and an enemy of
-  the free people of all the world.
+  Because of his actions and the effect of his
+  inaction, Elon Musk results as nothing but a liar,
+  a betrayer and an enemy of the free people of all the world.
 
 
 **Question**:
