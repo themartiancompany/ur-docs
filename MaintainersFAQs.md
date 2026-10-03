@@ -79,7 +79,9 @@ application store for software maintainers.
   you should not trust the MyDoge people,
   because they've been trying to cover up
   the real DogeOS project from the moment
-  they've been informed about it.
+  they've been informed about it an year
+  before they started talking at all
+  about theirs.
    
   It's hard to condense in a few words
   all the evilness, the bad faith,
