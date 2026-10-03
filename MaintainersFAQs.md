@@ -134,8 +134,9 @@ application store for software maintainers.
 
 **Answer**:
   In front of MyDoge attempt to cover up
-  this DogeOS project, which is very similar
-  to what Edison did to Tesla, Elon Musk
+  this DogeOS project, which it should underlined
+  very strongly it is *very similar
+  to what Edison did to Tesla*, Elon Musk
   has stayed silent.
   Also Elon Musk has stepped back from
   his intention to give the world the
