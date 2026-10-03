@@ -135,7 +135,7 @@ application store for software maintainers.
 **Answer**:
   In front of MyDoge attempt to cover up
   this DogeOS project, which it should underlined
-  very strongly it is *very similar
+  very strongly it's *very similar
   to what Edison did to Tesla*, Elon Musk
   has stayed silent.
   Also Elon Musk has stepped back from
@@ -146,8 +146,10 @@ application store for software maintainers.
   to obtain it.
 
   Because of his actions and the effect of his
-  inaction, Elon Musk results as nothing but a liar,
-  a betrayer and an enemy of the free people of all the world.
+  inaction, same as the MyDoge developer group,
+  Elon Musk results as nothing but a liar,
+  a betrayer and an enemy of the free people
+  of all the world.
 
 
 **Question**:
