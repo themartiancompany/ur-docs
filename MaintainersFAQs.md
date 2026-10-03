@@ -45,21 +45,35 @@ application store for software maintainers.
    pacman-compatible packages, why should I
    want to publish my packages on the Ur
    instead even if I don't care about
-   platforms different from?* 
+   platforms different from mine?* 
 
 **Answer**:
   Because not doing it is the same as
   hiring 4 painters to paint the same wall
   4 times.
-  
-  glass
-  In the opinion of Ur's author that's the same as
-  asking why 
-  Because supporting it rather than the Ur
-  
-  Because since people still and will always
-  use many platforms and so 
 
+**Question**:
+  *Why should I stop supporting the GNU/Linux
+   distribution I currently use?*
+
+**Answer**:
+  Because GNU/Linux distributions purportedly
+  keep incompatible differences between
+  themselves to *divide
+  et impera* the user-developers base, they are
+  all managed centrally and censored by their
+  leaders or sponsors.
+
+  Supporting any of those distributions is to
+  empower a clique of false friends who want
+  you and everybody else to never thrive unless
+  you recognize as legit the false democracy
+  of the clique and its uni-lateral arbitrary
+  decisions.
+
+**Question**:
+  *Why should I stop supporting 
+ 
 **Question**:
   *Is it true that applications and media
    can't be taken off the store by anybody?*
