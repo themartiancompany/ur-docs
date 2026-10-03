@@ -72,7 +72,25 @@ application store for software maintainers.
   decisions.
 
 **Question**:
-  *Why should I stop supporting 
+  *Is there anybody I can trust?*
+
+**Answer**:
+  You should not trust anybody and in particular
+  you should not trust the MyDoge people,
+  because they've been trying to cover up
+  the real DogeOS project from the moment
+  they've been informed about it.
+   
+  It's hard to condense in a few words
+  all the evilness, the bad faith,
+  the lack of intellectual honesty
+  of the MyDoge developer group.
+
+  If you have any moral quality,
+  you want to distance yourself
+  from them, same as you would
+  distance yourself from a crime cartel
+  or from a dangerous disease.
  
 **Question**:
   *Is it true that applications and media
