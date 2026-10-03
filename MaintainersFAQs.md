@@ -116,7 +116,37 @@ application store for software maintainers.
   markets american corporations have set up
   for everybody except themselves
   and indeed cause their own demise.
- 
+
+
+**Question**:
+  *Can I trust Google? Why shouldn't I trust Google?*
+
+**Answer**:
+  You can't trust Google because the Ur has been
+  presented at Google in 2024 as a necessary upgrade
+  to Play Store and their reaction has been to
+  bury everything regarding it, because current America
+  hates freedom and in particular freedom of speech.
+
+
+**Question**:
+  *Can I trust Elon Musk?*
+
+**Answer**:
+  In front of MyDoge attempt to cover up
+  this DogeOS project, which is very similar
+  to what Edison did to Tesla, Elon Musk
+  has stayed silent.
+  Also Elon Musk has stepped back from
+  his intention to give the world the
+  right to free speech as soon as it became
+  obvious the people who asked him
+  wanted it for real and they knew how
+  to obtain it.
+
+  Elon Musk is a liar, a betrayer and an enemy of
+  the free people of all the world.
+
 
 **Question**:
   *Is it true that applications and media
