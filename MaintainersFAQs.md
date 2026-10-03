@@ -89,7 +89,7 @@ application store for software maintainers.
   If you have any moral quality,
   you want to distance yourself
   from them, same as you would
-  distance yourself from a crime cartel
+  distance yourself from a crime cartel,
   or from a dangerous disease.
  
 **Question**:
