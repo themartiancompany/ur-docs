@@ -27,6 +27,7 @@ questions about the
   https://github.com/themartiancompany/ur)
 application store for software maintainers.
 
+
 **Question**:
   *I'm a software maintainer, why should
    I publish my packages on the Ur?*
@@ -40,6 +41,7 @@ application store for software maintainers.
 
   Also you get paid for your work.
 
+
 **Question**:
   *I'm a free software maintainer of
    pacman-compatible packages, why should I
@@ -51,6 +53,7 @@ application store for software maintainers.
   Because not doing it is the same as
   hiring 4 painters to paint the same wall
   4 times.
+
 
 **Question**:
   *Why should I stop supporting the GNU/Linux
@@ -71,11 +74,13 @@ application store for software maintainers.
   of the clique and its uni-lateral arbitrary
   decisions.
 
+
 **Question**:
   *Is there anybody I can trust?*
 
 **Answer**:
-  You should not trust anybody and in particular
+  You should not trust anything but code
+  and in particular
   you should not trust the MyDoge people,
   because they've been trying to cover up
   the real DogeOS project from the moment
@@ -86,7 +91,9 @@ application store for software maintainers.
   It's hard to condense in a few words
   all the evilness, the bad faith,
   the lack of intellectual honesty
-  of the MyDoge developer group.
+  of the MyDoge developer group,
+  their low morals and the low morals
+  of their associates.
 
   If you have any moral quality,
   you want to distance yourself
@@ -100,6 +107,7 @@ application store for software maintainers.
   any, it would condemn the MyDoge
   developer group to rot in a jail.
  
+
 **Question**:
   *Is it true that applications and media
    can't be taken off the store by anybody?*
