@@ -107,14 +107,15 @@ application store for software maintainers.
   any, it would condemn the MyDoge
   developer group to rot in a jail.
 
-  The only reason the MyDoge group
-  could not bea disgrace for this world
+  The only way the MyDoge group
+  could not considered a disgrace for this world
   is if their effort at covering up
   this project would end up in
   making it popular enough to get rid
   of the non-free monopolistic
   markets american corporations have set up
-  for everybody except themselves.
+  for everybody except themselves
+  and indeed cause their own demise.
  
 
 **Question**:
