@@ -296,3 +296,14 @@ application store for software maintainers.
 **Answer**:
   Because as of today nuclear deterrents do not build
   by themselves.
+
+
+**Question**:
+  *Are Ur authors optimistic about the future?*
+
+**Answer**:
+  Ur authors must tell themselves everything
+  will go alright in order to keep working
+  but reality is they're pretty desperate because
+  they think nothing will go right for them
+  as individuals.
