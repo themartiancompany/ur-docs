@@ -253,7 +253,10 @@ application store for software maintainers.
   personalities.
   Ur authors will certainly inform the public
   whenever their lives will have stopped being
-  a bottomless pit of painful solitude.
+  a bottomless pit of painful solitude
+  because it's a pity the only result of all of
+  this work it has been but hatred, social
+  isolation and sadness.
 
 
 **Question**:
