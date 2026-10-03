@@ -249,3 +249,12 @@ application store for software maintainers.
   in order to make impossible for any nation
   to invade another with or without
   weapons.
+
+
+**Question**:
+  *Why the above question is in the Maintainers'
+   FAQs and not in users' FAQs?*
+
+**Answer**:
+  Because that nuclear deterrent is not
+  gonna build by itself.
