@@ -134,8 +134,9 @@ application store for software maintainers.
 
 **Answer**:
   In front of MyDoge attempt to cover up
-  this DogeOS project, which it should underlined
-  very strongly it's *very similar
+  the DogeOS project the Ur is part of,
+  which it should underlined very strongly
+  such attempt is *very similar
   to what Edison did to Tesla*, Elon Musk
   has stayed silent.
   Also Elon Musk has stepped back from
@@ -150,6 +151,84 @@ application store for software maintainers.
   Elon Musk results as nothing but a liar,
   a betrayer and an enemy of the free people
   of all the world.
+
+
+**Question**:
+  *What's Elon Musk relationship with this project?*
+
+**Answer**:
+  As far as Ur authors are aware, Musk was perfectly
+  aware at all times he wouldn't have given free
+  speech to America and the rest of the world
+  through Twitter, as he saw it impossible even
+  for himself to push for this objective without
+  heavy repercussions for his businesses.
+
+  Knowing it was technically feasible though, in 2021
+  Musk had secretly tasked a group of focused
+  individuals from the free software community
+  to do that in his place.
+
+  The unverifiable proof of this informal,
+  *under-the-table* agreement can be found in
+  X.com logo choice,
+  a blatant copy of X.org logo, the real
+  *everything app*, as X.org is Unix systems
+  display server so in practice
+  every Unix program with a non-terminal UI
+  actually runs on top of X.org.
+
+  By picking that particular logo, Elon
+  informally agreed that the free software
+  community took over the Twitter brand
+  and wrote a version of the Twitter application
+  which couldn't possibly be censored.
+  
+  In order for such an application to overcome
+  the same obstacles he would have found
+  publishing it, the Ur and the EVMFS were necessary
+  components for the Twitter application to
+  be able to be distributed at all.
+
+  The Twitter application with available no
+  way to be censored is so only distributed
+  through the Ur, while its web application
+  (still unreleased) can only be browsed
+  from a Seed System (SS) resolving
+  web browser.
+
+  In all honesty Ur authors think Musk's
+  informal secret agreement was just a marketing stunt
+  to make him appear like some sort of enlightened
+  tyrant to posterity, as he both thought Ur authors
+  wouldn't have been able to fulfill the task
+  nor to reach anybody by means of the same
+  obstacles which made impossible for him
+  and because of his own Xcom propaganda.
+
+  Regardless, the undeletable Twitter is no
+  less important than if Musk had never
+  been in the equation or if it wasn't called
+  Twitter and in fact the undeletable Twitter
+  protocol is by matter of fact the *Ethereum
+  E-mail* protocol.
+ 
+
+**Question**:
+  *Why do you keep referring to a group of 'Ur authors' 
+  if all the work is authored by Pellegrino Prevete?*
+
+**Answer**:
+  Because it makes less painful for Pellegrino
+  to read this text, as the thought he had to
+  do everything by himself depresses him a lot
+  and leave him hopeless in regard to the fact
+  that *humanity* isn't just a group of spare
+  individuals lost among crowds of countless
+  evil idiots slightly more conscious than
+  animals and that the only solution
+  to make the world a better place is to get
+  rid of them all.
 
 
 **Question**:
