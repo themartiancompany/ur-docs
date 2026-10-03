@@ -255,7 +255,7 @@ application store for software maintainers.
   whenever their lives will have stopped being
   a bottomless pit of painful solitude
   because it's a shame the only result of all of
-  this work it has been but hatred, social
+  this priceless work it has been but hatred, social
   isolation and sadness for its author.
 
 
