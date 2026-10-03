@@ -256,7 +256,7 @@ application store for software maintainers.
   a bottomless pit of painful solitude
   because it's a shame the only result of all of
   this work it has been but hatred, social
-  isolation and sadness for those who made it.
+  isolation and sadness for its author.
 
 
 **Question**:
