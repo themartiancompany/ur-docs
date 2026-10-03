@@ -305,5 +305,5 @@ application store for software maintainers.
   Ur authors must tell themselves everything
   will go alright in order to keep working
   but reality is they're pretty desperate because
-  they think nothing will go right for them
+  they are worried nothing will go right for them
   as individuals.
