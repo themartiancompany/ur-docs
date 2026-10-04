@@ -233,8 +233,8 @@ application store for software maintainers.
 
 **Question**:
   *Wait, so you're telling me Elon Musk tasked 
-   ONE external developer to merge Android,
-   to rewrite whole Twitter by himself unpaid?
+   ONE external developer to rewrite whole
+   Twitter by himself unpaid?
    Doesn't that even go against his own interest?*
 
 **Answer**:
