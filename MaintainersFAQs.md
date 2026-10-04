@@ -260,6 +260,27 @@ application store for software maintainers.
 
 
 **Question**:
+  *Nobody does all of that unpaid,
+   what's Ur authors agenda?*
+
+**Answer**:
+  Liberta' di sognare<br>
+  In un cielo d'asfalto<br>
+  Liberta' di guardare<br>
+  Dove il bianco e' piu' vivo
+
+  Liberta' nell'amare<br>
+  Tra dei raggi di seta<br>
+  Liberta' della fede<br>
+  Verso un Dio senza ombra
+
+  Liberta' della vita<br>
+  Che nessuna e' di tutti<br>
+  Dove tutti sia uno<br>
+  In fondo al castello dell'Es.
+
+
+**Question**:
   *What does Billy (Dogecoin author)
    say about all of this?*
 
